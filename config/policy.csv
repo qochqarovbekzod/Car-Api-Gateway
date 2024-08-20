@@ -1,0 +1,56 @@
+p, customer, /api/v1/users/profile/*, PUT
+p, customer, /api/v1/users/profile/*, GET
+
+p, admin, /api/v1/users/profile/*, PUT
+p, admin, /api/v1/users/profile/*, GET
+
+p, admin,  /api/v1/providers, POST
+p, admin,  /api/v1/providers/*, GET
+p, admin,  /api/v1/providers, GET
+p, admin, /api/v1/providers/*, PUT
+p, admin, /api/v1/providers/*, DELETE
+
+p, customer, /api/v1/bookings, POST
+p, customer, /api/v1/bookings/*, GET
+p, customer, /api/v1/bookings, GET
+p, customer, /api/v1/bookings/*, PUT
+p, customer, /api/v1/bookings/*, DELETE
+
+p, admin, /api/v1/bookings, POST
+p, admin, /api/v1/bookings/*, GET
+p, admin, /api/v1/bookings, GET
+p, admin, /api/v1/bookings/*, PUT
+p, admin, /api/v1/bookings/*, DELETE
+
+p, customer, /api/v1/services, GET
+p, customer, /api/v1/services/*, GET
+
+p, admin, /api/v1/services, POST
+p, admin, /api/v1/services/*, GET
+p, admin, /api/v1/services, GET
+p, admin, /api/v1/services/*, PUT
+p, admin, /api/v1/services/*, DELETE
+
+p, admin, /api/v1/payments, GET
+p, admin, /api/v1/payments/*, GET
+p, admin, /api/v1/payments, POST
+
+p, customer, /api/v1/payments, POST
+p, customer, /api/v1/payments/*, GET
+p, customer, /api/v1/payments, GET
+
+
+p, admin, /api/v1/reviews, GET
+p, admin, /api/v1/reviews/*, GET
+p, admin, /api/v1/reviews, POST
+p, admin, /api/v1/reviews/*, DELETE
+
+p, customer, /api/v1/reviews, POST
+p, customer, /api/v1/reviews/*, GET
+p, customer, /api/v1/reviews, GET
+p, customer, /api/v1/reviews/*, PUT
+p, customer, /api/v1/reviews/*, DELETE
+
+p, customer, /services/best, GET
+p, admin, /services/best, GET
+p, provider, /services/best, GET

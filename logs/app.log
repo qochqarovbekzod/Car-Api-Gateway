@@ -1,0 +1,891 @@
+{"time":"2024-08-12T20:24:14.050845314+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:24:14.051680068+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:24:25.089120873+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:24:25.089580415+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:25:42.603319038+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:25:42.603675587+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:27:29.188108746+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:27:29.188527368+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:27:54.553267558+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:27:54.553661665+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:29:43.719200534+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:29:43.719574283+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:30:45.048381787+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:30:45.04879423+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:32:29.496733443+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:32:29.497162061+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:32:46.123088361+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:32:46.123500012+05:00","level":"INFO","msg":"Server is running","PORT":"api-gateway:8080"}
+{"time":"2024-08-12T20:34:17.862083819+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:34:17.862453892+05:00","level":"INFO","msg":"Server is running","PORT":"8080"}
+{"time":"2024-08-12T20:34:38.099457749+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:34:38.099844358+05:00","level":"INFO","msg":"Server is running","PORT":"localhost:8080"}
+{"time":"2024-08-12T20:34:53.224071093+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:34:53.224497207+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T20:35:39.034374591+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:35:39.034796512+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T20:36:12.039857027+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:36:12.040190106+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T20:40:09.316558133+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:40:09.317053334+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T20:41:01.856694093+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:41:01.857097851+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T20:41:09.262628283+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T20:41:09.263110192+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T21:15:01.478765213+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:15:08.000728078+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:15:22.224297738+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:15:41.177609235+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:16:02.703841726+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:16:02.704385887+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T21:16:56.918983609+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:16:56.919474094+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T21:18:43.744725362+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:18:43.745183451+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T21:19:00.648662629+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:19:00.649484537+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T21:20:17.062623703+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:20:17.06317733+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T21:20:27.866164393+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:20:27.866717785+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-12T21:21:10.26452738+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-12T21:21:10.265015036+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T09:23:09.037813146+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T09:23:09.039443629+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T09:23:52.727340612+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T09:23:52.728670437+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T09:31:39.115149646+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T09:31:39.116214411+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T09:35:41.583343981+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T09:35:41.584396075+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T09:35:46.390338793+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T09:35:46.39618723+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T09:37:36.528734652+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:37:36.530926961+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T09:42:26.353474723+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:42:26.355403903+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T09:42:52.452501384+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:42:52.454049476+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T09:43:54.18990466+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T09:43:54.191617294+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T09:43:57.094306447+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:43:57.098044421+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T09:48:25.504576969+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:48:25.506284281+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T09:51:07.109366323+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T09:51:07.112547949+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T09:51:21.520607844+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:51:21.522362141+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T09:53:45.081691251+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T09:53:45.083439258+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T09:54:41.508734307+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:54:41.510242903+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T09:55:26.076476954+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T09:55:26.078233011+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T09:56:53.63520416+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T09:56:53.649195304+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:01:44.654462248+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:01:44.657362002+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:02:10.987040138+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:02:10.989879566+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:02:27.486528478+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:02:27.48922059+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:02:30.942569351+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:02:30.944077694+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:09:08.945260557+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:09:08.948288888+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:11:57.577552827+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T10:11:57.57955564+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T10:12:36.237762016+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:12:36.239320231+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:13:59.696913472+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T10:13:59.699217708+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T10:17:21.764266478+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T10:17:21.767344834+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T10:18:02.640978226+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T10:18:02.642719396+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T10:18:25.984288088+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:18:25.98701396+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:20:16.79054808+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T10:20:16.804534469+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T10:28:38.168545636+05:00","level":"INFO","msg":"Updating booking..."}
+{"time":"2024-08-13T10:28:38.183857152+05:00","level":"INFO","msg":"Booking updated successfully"}
+{"time":"2024-08-13T10:29:15.762712953+05:00","level":"INFO","msg":"Deleting booking..."}
+{"time":"2024-08-13T10:29:15.774552617+05:00","level":"INFO","msg":"Booking deleted successfully"}
+{"time":"2024-08-13T10:34:56.852998135+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T10:34:56.864367891+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T10:35:55.55741853+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T10:35:55.55884616+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T10:36:55.100355765+05:00","level":"INFO","msg":"CreatePayment called with payload"}
+{"time":"2024-08-13T10:36:55.115018728+05:00","level":"INFO","msg":"Payment created successfully"}
+{"time":"2024-08-13T10:37:27.340608829+05:00","level":"INFO","msg":"GetPaymentById"}
+{"time":"2024-08-13T10:37:27.342593942+05:00","level":"INFO","msg":"Payment found successfully"}
+{"time":"2024-08-13T10:37:37.357048614+05:00","level":"INFO","msg":"GetAllPayment called"}
+{"time":"2024-08-13T10:37:37.35870092+05:00","level":"INFO","msg":"All payments retrieved successfully"}
+{"time":"2024-08-13T10:38:22.172930906+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:38:22.173991033+05:00","level":"ERROR","msg":"Error creating provider","!BADKEY":"rpc error: code = Unimplemented desc = method CreateProviders not implemented"}
+{"time":"2024-08-13T10:40:12.326160271+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:40:12.327999437+05:00","level":"ERROR","msg":"Error creating provider","!BADKEY":"rpc error: code = Unimplemented desc = method CreateProviders not implemented"}
+{"time":"2024-08-13T10:40:21.700946393+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:40:21.701503791+05:00","level":"ERROR","msg":"Error creating provider","!BADKEY":"rpc error: code = Unimplemented desc = method CreateProviders not implemented"}
+{"time":"2024-08-13T10:41:14.625584349+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:41:14.627313989+05:00","level":"ERROR","msg":"Error creating provider","!BADKEY":"rpc error: code = Unimplemented desc = method CreateProviders not implemented"}
+{"time":"2024-08-13T10:41:20.090939286+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:41:20.091561868+05:00","level":"ERROR","msg":"Error creating provider","!BADKEY":"rpc error: code = Unimplemented desc = method CreateProviders not implemented"}
+{"time":"2024-08-13T10:42:09.277618445+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T10:42:09.278753827+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T10:42:19.934672108+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T10:42:19.935790245+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T10:42:22.230724668+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:42:22.233600418+05:00","level":"ERROR","msg":"Error creating provider","!BADKEY":"rpc error: code = Unimplemented desc = method CreateProviders not implemented"}
+{"time":"2024-08-13T10:44:02.89187076+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T10:44:02.8934804+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T10:44:07.288110438+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:44:07.290875256+05:00","level":"ERROR","msg":"Error creating provider","!BADKEY":"rpc error: code = Unimplemented desc = method CreateProviders not implemented"}
+{"time":"2024-08-13T10:46:08.162071143+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:46:08.197204982+05:00","level":"INFO","msg":"Provider created successfully"}
+{"time":"2024-08-13T10:50:03.90583106+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T10:50:03.908796289+05:00","level":"INFO","msg":"Provider created successfully"}
+{"time":"2024-08-13T10:54:01.5399236+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T10:54:01.540921822+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T10:54:05.809674261+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T10:54:05.812635583+05:00","level":"ERROR","msg":"Error getting all providers","!BADKEY":"rpc error: code = Unimplemented desc = method GetAllProviderss not implemented"}
+{"time":"2024-08-13T10:55:19.397481251+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T10:55:19.400448538+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T10:56:07.118162636+05:00","level":"INFO","msg":"Getting provider by id"}
+{"time":"2024-08-13T10:56:07.119327062+05:00","level":"ERROR","msg":"Error getting provider by id","!BADKEY":"rpc error: code = Unimplemented desc = method GetByIdProviders not implemented"}
+{"time":"2024-08-13T10:56:51.417718273+05:00","level":"INFO","msg":"Getting provider by id"}
+{"time":"2024-08-13T10:56:51.41828122+05:00","level":"ERROR","msg":"Error getting provider by id","!BADKEY":"rpc error: code = Unimplemented desc = method GetByIdProviders not implemented"}
+{"time":"2024-08-13T10:57:41.367159248+05:00","level":"INFO","msg":"Getting provider by id"}
+{"time":"2024-08-13T10:57:41.369897255+05:00","level":"ERROR","msg":"Error getting provider by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T10:58:52.219303908+05:00","level":"INFO","msg":"Getting provider by id"}
+{"time":"2024-08-13T10:58:52.220943364+05:00","level":"ERROR","msg":"Error getting provider by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T11:00:01.036876294+05:00","level":"INFO","msg":"Getting provider by id"}
+{"time":"2024-08-13T11:00:01.040129971+05:00","level":"ERROR","msg":"Error getting provider by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T11:00:23.50829413+05:00","level":"INFO","msg":"Getting provider by id"}
+{"time":"2024-08-13T11:00:23.511291753+05:00","level":"ERROR","msg":"Error getting provider by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T11:00:52.861307136+05:00","level":"INFO","msg":"Getting provider by id"}
+{"time":"2024-08-13T11:00:52.864647646+05:00","level":"INFO","msg":"Provider found successfully"}
+{"time":"2024-08-13T11:01:30.090277739+05:00","level":"INFO","msg":"Updating provider"}
+{"time":"2024-08-13T11:01:30.093033588+05:00","level":"ERROR","msg":"Error updating provider","!BADKEY":"rpc error: code = Unimplemented desc = method UpdateProviders not implemented"}
+{"time":"2024-08-13T11:01:44.770120388+05:00","level":"INFO","msg":"Updating provider"}
+{"time":"2024-08-13T11:01:44.770745653+05:00","level":"ERROR","msg":"Error updating provider","!BADKEY":"rpc error: code = Unimplemented desc = method UpdateProviders not implemented"}
+{"time":"2024-08-13T11:02:52.512956236+05:00","level":"INFO","msg":"Updating provider"}
+{"time":"2024-08-13T11:02:52.516256209+05:00","level":"ERROR","msg":"Error updating provider","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T11:05:02.335070372+05:00","level":"INFO","msg":"Updating provider"}
+{"time":"2024-08-13T11:05:02.338277276+05:00","level":"INFO","msg":"Provider updated successfully"}
+{"time":"2024-08-13T11:05:58.262063427+05:00","level":"INFO","msg":"Deleting provider"}
+{"time":"2024-08-13T11:05:58.26277221+05:00","level":"ERROR","msg":"Error deleting provider","!BADKEY":"rpc error: code = Unimplemented desc = method DeleteProviders not implemented"}
+{"time":"2024-08-13T11:08:05.975786602+05:00","level":"INFO","msg":"Deleting provider"}
+{"time":"2024-08-13T11:08:05.977560515+05:00","level":"ERROR","msg":"Error deleting provider","!BADKEY":"rpc error: code = Unknown desc = update document must contain key beginning with '$'"}
+{"time":"2024-08-13T11:09:06.859003032+05:00","level":"INFO","msg":"Deleting provider"}
+{"time":"2024-08-13T11:09:06.860998231+05:00","level":"ERROR","msg":"Error deleting provider","!BADKEY":"rpc error: code = Unknown desc = update document must contain key beginning with '$'"}
+{"time":"2024-08-13T11:12:25.358646888+05:00","level":"INFO","msg":"Deleting provider"}
+{"time":"2024-08-13T11:12:25.36163012+05:00","level":"INFO","msg":"Provider deleted successfully"}
+{"time":"2024-08-13T11:13:20.134108379+05:00","level":"INFO","msg":" creating handler"}
+{"time":"2024-08-13T11:13:20.146512704+05:00","level":"INFO","msg":"Review created successfully"}
+{"time":"2024-08-13T11:13:33.64077284+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T11:13:33.642875927+05:00","level":"INFO","msg":"All reviews retrieved successfully"}
+{"time":"2024-08-13T11:13:59.785312005+05:00","level":"INFO","msg":"GetReviewById called"}
+{"time":"2024-08-13T11:13:59.787063521+05:00","level":"INFO","msg":"Review found successfully"}
+{"time":"2024-08-13T11:15:06.911469039+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:15:06.912411624+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:15:39.14983745+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:15:39.151101471+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:15:40.86842854+05:00","level":"INFO","msg":"Deleting review..."}
+{"time":"2024-08-13T11:15:40.872610456+05:00","level":"INFO","msg":"Review deleted successfully"}
+{"time":"2024-08-13T11:16:16.522117134+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T11:16:16.532391197+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T11:16:47.007572904+05:00","level":"INFO","msg":"Creating service"}
+{"time":"2024-08-13T11:16:47.024088555+05:00","level":"INFO","msg":"Service created successfully"}
+{"time":"2024-08-13T11:17:15.000142241+05:00","level":"INFO","msg":"Getting service by id"}
+{"time":"2024-08-13T11:17:15.002071664+05:00","level":"INFO","msg":"Service found successfully"}
+{"time":"2024-08-13T11:17:32.855382004+05:00","level":"INFO","msg":"Updating service"}
+{"time":"2024-08-13T11:17:32.865883938+05:00","level":"INFO","msg":"Service updated successfully"}
+{"time":"2024-08-13T11:17:45.06341173+05:00","level":"INFO","msg":"Deleting service"}
+{"time":"2024-08-13T11:17:45.065597059+05:00","level":"INFO","msg":"Service deleted successfully"}
+{"time":"2024-08-13T11:18:41.693877897+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:18:41.694995499+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:19:03.700581407+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:19:03.701846142+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:19:39.005948336+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:19:39.007077954+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:21:37.940330973+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:21:37.940379138+05:00","level":"ERROR","msg":"UpdateUserProfile failed because user_id is not set in the config"}
+{"time":"2024-08-13T11:22:36.283937138+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:22:36.284011384+05:00","level":"ERROR","msg":"UpdateUserProfile failed because user_id is not set in the config"}
+{"time":"2024-08-13T11:24:35.761189064+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:24:35.762492004+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:25:01.328447669+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:25:01.328500515+05:00","level":"ERROR","msg":"UpdateUserProfile failed because user_id is not set in the config"}
+{"time":"2024-08-13T11:25:36.143352413+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:25:36.144507709+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:26:40.376636173+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:26:40.392802584+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:26:40.392925284+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:28:45.310984508+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:28:45.349238585+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:28:45.349416181+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:28:48.643826463+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:28:48.644905543+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:28:48.645004896+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:28:49.924800035+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:28:49.92596354+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:28:49.926057309+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:29:08.465720077+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:29:08.466803721+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:08.466913657+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:29:08.633499228+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:29:08.63463814+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:08.6347227+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:29:08.760729823+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:29:08.761957958+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:08.762049484+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:29:09.678014018+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:29:09.679166435+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: could not determine data type of parameter $3"}
+{"time":"2024-08-13T11:29:09.679246528+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:29:49.750755704+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:29:49.756564713+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:29:49.756689332+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:31:57.749107758+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:31:57.750670289+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:31:57.750843224+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:33:26.472752486+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:33:26.474110919+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:33:26.47420158+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:34:28.995784997+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:34:28.999185254+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:34:28.99934146+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:34:37.900744806+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:34:37.901999505+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:34:37.902092704+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:35:13.77713081+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:35:13.778778648+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:35:15.676360114+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:35:15.680528432+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:35:15.680642104+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:35:30.953904265+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:35:30.955273602+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:35:32.393087541+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:35:32.396977488+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:35:32.397081668+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:35:36.90800028+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:35:36.909463719+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:35:36.909555978+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:35:55.923980599+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:35:55.925075013+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:36:03.645691833+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:36:03.646914924+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:36:17.090614863+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:36:17.094934067+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:36:17.095027853+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:37:34.205765881+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:37:34.206817172+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:37:37.571679841+05:00","level":"INFO","msg":"UpdateUserProfile called with updated user profile information"}
+{"time":"2024-08-13T11:37:37.575265585+05:00","level":"ERROR","msg":" UpdateUserProfile failed to update user profile","error":"rpc error: code = Unknown desc = pq: invalid input syntax for type uuid: \"\""}
+{"time":"2024-08-13T11:37:37.575392078+05:00","level":"INFO","msg":"UpdateUserProfile success"}
+{"time":"2024-08-13T11:38:15.339108718+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:38:15.340117735+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:40:51.552236976+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:40:51.5599061+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:43:39.181235841+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:43:39.182819981+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:46:10.09892362+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:46:10.099987683+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T11:47:21.144626625+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T11:47:21.145814637+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T13:34:56.17412215+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T13:34:56.211613694+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T13:35:23.390888923+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T13:35:23.397821617+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T13:35:30.771289329+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T13:35:30.773461993+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T14:41:15.976512578+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T14:41:15.978802977+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T14:43:25.477670548+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T14:43:25.478948424+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T14:43:36.159066901+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T14:43:36.160473908+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T14:44:39.501065653+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T14:44:39.502091914+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T14:45:08.584767142+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T14:45:08.585934266+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T14:45:36.076402603+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:45:36.078400216+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T14:48:58.967162017+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:48:58.967338529+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T14:49:00.287805465+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:49:00.287893853+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T14:50:16.514699989+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:50:16.514799373+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T14:50:43.412480521+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:50:43.412746959+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"error reading server preface: read tcp 127.0.0.1:60866->127.0.0.1:50051: read: connection reset by peer\""}
+{"time":"2024-08-13T14:50:48.000016379+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:50:48.023028781+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"error reading server preface: read tcp 127.0.0.1:60866->127.0.0.1:50051: read: connection reset by peer\""}
+{"time":"2024-08-13T14:50:48.186824929+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:50:48.18690535+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"error reading server preface: read tcp 127.0.0.1:60866->127.0.0.1:50051: read: connection reset by peer\""}
+{"time":"2024-08-13T14:51:09.070708036+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T14:51:09.072264662+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T14:51:11.192679518+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:51:11.20047794+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = error reading from server: EOF"}
+{"time":"2024-08-13T14:52:23.532724624+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:52:23.548100426+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = error reading from server: EOF"}
+{"time":"2024-08-13T14:52:36.337004913+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T14:52:36.342581774+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = error reading from server: EOF"}
+{"time":"2024-08-13T15:08:29.407632703+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:08:29.414240968+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = error reading from server: EOF"}
+{"time":"2024-08-13T15:10:02.210503163+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:10:02.216928329+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = error reading from server: EOF"}
+{"time":"2024-08-13T15:10:27.607334255+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T15:10:27.623497027+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T15:10:36.307333616+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:10:36.312237254+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = error reading from server: EOF"}
+{"time":"2024-08-13T15:14:33.440037085+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:14:33.446450137+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = error reading from server: EOF"}
+{"time":"2024-08-13T15:35:18.21915442+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:35:18.244586152+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = (Location40234) The field 'service_id' must be an accumulator object"}
+{"time":"2024-08-13T15:35:22.848619434+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:35:22.850589448+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = (Location40234) The field 'service_id' must be an accumulator object"}
+{"time":"2024-08-13T15:36:37.507703288+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:36:37.511294563+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = (Location40234) The field 'service_id' must be an accumulator object"}
+{"time":"2024-08-13T15:38:18.15440868+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:38:18.157628452+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = (Location40234) The field 'service_id' must be an accumulator object"}
+{"time":"2024-08-13T15:39:08.362366609+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:39:08.371042911+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = (Location40234) The field 'service_id' must be an accumulator object"}
+{"time":"2024-08-13T15:45:08.15222615+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:45:08.177493889+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T15:45:29.398565031+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:45:29.41271587+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T15:45:33.283884251+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:45:33.28608781+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T15:45:57.882287568+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:45:57.885870965+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T15:48:04.525760537+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:48:04.537525339+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = (Location40234) The field 'service_id' must be an accumulator object"}
+{"time":"2024-08-13T15:50:16.288406866+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:50:16.320844107+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T15:58:47.982929636+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T15:58:48.025724337+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:00:46.037278372+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:00:46.054658455+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:02:06.845387095+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:02:06.8508461+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:02:31.042764142+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:02:31.047436184+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:03:22.958052558+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:03:22.961780077+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:07:05.495929271+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:05.508069718+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:07.814797379+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:07.816475386+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:09.001532952+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:09.003150469+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:09.702203878+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:09.703670175+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:10.238351307+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:10.239893713+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:10.436044682+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:10.437615976+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:10.644060188+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:10.64564666+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:10.946984431+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:10.948466218+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:12.394564149+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:07:12.396427796+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:07:25.97054393+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T16:07:25.982025364+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T16:07:33.549029234+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:07:33.561162162+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:07:40.289656286+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:07:40.29179604+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:07:40.553307938+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:07:40.556183204+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:09:37.505009866+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:09:37.506978411+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T16:10:00.019904796+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:10:00.020065249+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T16:10:04.989147638+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:10:04.991392141+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:10:05.246949777+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:10:05.248506113+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:11:13.851940019+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:11:13.862842475+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T16:11:27.696807977+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:11:27.696911266+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T16:12:51.791541012+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:12:51.800741491+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing: dial tcp 127.0.0.1:50051: connect: connection refused\""}
+{"time":"2024-08-13T16:13:11.237829398+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:13:11.260651171+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:13:12.186582075+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:13:12.188237796+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:14:15.062760745+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:15.067878883+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:17.823454816+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:17.826476834+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:18.531377978+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:18.532948788+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:19.156761589+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:19.158127987+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:19.816729047+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:19.818166385+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:20.462311415+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:20.46394224+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:21.045163763+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:21.046587391+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:21.650263007+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:21.652000756+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:22.314983076+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:22.316413784+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:22.861418097+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:22.862768225+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:23.514699224+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:23.516065584+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:24.220542752+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:24.222028673+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:24.781633406+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:24.78307519+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:24.993326151+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:24.994820649+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:25.29297546+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:25.294524194+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:25.490888999+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:25.49242441+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:25.75202275+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:25.753929615+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:26.01132972+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:26.013093516+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:26.215433982+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:26.217186827+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:26.45646671+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:26.45798812+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:26.742492192+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:26.743875822+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:27.092747955+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:27.094390791+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:27.366952535+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:27.368370883+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:27.585276364+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:27.586804553+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:27.859315781+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:27.861202926+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:28.078446843+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:28.079975219+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:28.369668355+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:28.372166013+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:42.592533422+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:42.593974708+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:43.790563924+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:43.792023296+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:44.911289967+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:44.912653811+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:51.461197902+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:51.462595448+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:52.168683752+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:52.1702486+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:52.949422005+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:52.950788325+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:53.643924258+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:53.645383166+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:54.404058444+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:54.405550532+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:14:55.155124919+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:14:55.156496324+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:16:42.651505661+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:16:42.652975017+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:16:46.755559839+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T16:16:46.757025528+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T16:17:13.593640751+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T16:17:13.596698697+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T16:17:17.110849568+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:17:17.112414026+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:20:23.940402786+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:20:23.961805543+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:21:08.407349396+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:21:08.41209916+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:21:09.501038678+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:21:09.50376186+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:21:54.945279364+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:21:54.949902618+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:25:01.770233436+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:25:01.786166091+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:25:45.835718561+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:25:45.849726045+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:27:26.152823385+05:00","level":"INFO","msg":"CareateGet called"}
+{"time":"2024-08-13T16:27:26.157371223+05:00","level":"ERROR","msg":"Error getting","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-13T16:42:07.178699286+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T16:42:07.206016446+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T16:53:11.670597237+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-13T16:53:11.699941113+05:00","level":"INFO","msg":"Booking found successfully"}
+{"time":"2024-08-13T17:01:53.2488275+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T17:01:53.272402253+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T17:02:10.38316971+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T17:02:10.39405171+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T17:02:28.615219614+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T17:02:28.627728214+05:00","level":"ERROR","msg":"Error getting all bookings","!BADKEY":"rpc error: code = Unknown desc = (BadValue) $and must be an array"}
+{"time":"2024-08-13T17:03:17.948417948+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T17:03:17.949901067+05:00","level":"ERROR","msg":"Error getting all bookings","!BADKEY":"rpc error: code = Unknown desc = (BadValue) $and must be an array"}
+{"time":"2024-08-13T17:07:52.373738381+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T17:07:52.406214181+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T17:08:06.365620702+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T17:08:06.370109448+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T17:31:36.09480448+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T17:31:36.10890241+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T17:32:13.038881978+05:00","level":"INFO","msg":"Updating booking..."}
+{"time":"2024-08-13T17:32:13.059073911+05:00","level":"INFO","msg":"Booking updated successfully"}
+{"time":"2024-08-13T17:32:37.853589073+05:00","level":"INFO","msg":"GetAllPayment called"}
+{"time":"2024-08-13T17:32:37.875503204+05:00","level":"INFO","msg":"All payments retrieved successfully"}
+{"time":"2024-08-13T17:32:49.985528494+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:32:49.989882115+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:34:40.956581374+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:34:40.959074983+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:35:34.256047991+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T17:35:34.258585842+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T17:35:36.949475793+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:35:36.974287843+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:35:53.40880572+05:00","level":"INFO","msg":"Creating provider"}
+{"time":"2024-08-13T17:35:53.428787101+05:00","level":"INFO","msg":"Provider created successfully"}
+{"time":"2024-08-13T17:36:01.952035959+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:36:01.953734551+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:37:23.502301119+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:37:23.513677672+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:39:58.259164545+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T17:39:58.261350895+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T17:40:03.037842527+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:40:03.073944732+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:40:44.578436737+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:40:44.580282802+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:40:53.282182635+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T17:40:53.285935555+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T17:40:55.356412517+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:40:55.361751274+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:41:27.69146219+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:41:27.693270205+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:43:07.837327065+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:43:07.843532945+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:43:15.617946399+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:43:15.620012926+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:43:32.051274271+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:43:32.052750424+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:44:14.782170257+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:44:14.799986161+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:44:27.585032735+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:44:27.58805617+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:44:44.991742508+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:44:44.996071127+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:45:10.452262798+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:45:10.45588643+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:45:20.942653246+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:45:20.945803423+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:45:38.9325988+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:45:38.936111014+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:45:51.370647833+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:45:51.373738804+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:46:44.536566568+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:46:44.539496471+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:47:11.431021683+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:47:11.434130278+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:47:29.642374376+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:47:29.655151498+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:49:34.922187421+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:49:34.934665447+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:50:38.398682278+05:00","level":"INFO","msg":"Getting all providers"}
+{"time":"2024-08-13T17:50:38.401844667+05:00","level":"INFO","msg":"All providers retrieved successfully"}
+{"time":"2024-08-13T17:53:47.033379205+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T17:53:47.058742014+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T17:56:37.942119818+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T17:56:37.947424041+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T17:58:03.534224531+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T17:58:03.537783508+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T17:58:21.585830504+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T17:58:21.589115393+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T18:04:50.446123775+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T18:04:50.46278303+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T18:05:21.094964784+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T18:05:21.104185281+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T18:09:11.268481505+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:09:11.270220573+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:09:15.682350785+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T18:09:15.747929062+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T18:10:03.620281723+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:10:03.623594249+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:10:06.400345595+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T18:10:06.458403264+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T18:10:58.42796225+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T18:10:58.462788262+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T18:15:36.276252169+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:15:36.306531015+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:16:33.178974259+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:16:33.1818248+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:16:35.728684011+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:16:35.771468977+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:16:40.299285282+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:16:40.301098683+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:16:53.827370035+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:16:53.830607134+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:18:51.120648252+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:18:51.144104242+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:18:53.380336945+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:18:53.381891883+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:18:54.288597647+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:18:54.290077292+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:18:54.730760129+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:18:54.73235463+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:18:55.233971268+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:18:55.236066007+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:18:55.709482845+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:18:55.711030461+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:19:17.995966426+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:19:18.061829448+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:19:23.480833855+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:19:23.482318227+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:20:38.137247579+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:20:38.140403878+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:20:42.237252333+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:20:42.305415045+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:22:34.46972742+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:22:34.472005052+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:22:39.194814589+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:22:39.196923376+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:22:41.638456151+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:22:41.675392138+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:23:58.365588977+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:23:58.368278624+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:24:03.806650613+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:24:03.849136298+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:25:01.822222006+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:25:01.824962474+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:25:05.920834493+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:25:05.964679823+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:26:49.824097883+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:26:49.825915316+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:26:52.640092241+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:26:52.658517128+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:27:01.494074907+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:27:01.495814781+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:27:02.66963769+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:27:02.674197725+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:27:04.506421475+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:27:04.509549789+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:29:09.285605036+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:29:09.288449203+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:29:18.350172969+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:29:18.351261774+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:30:09.810836918+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:30:09.812352373+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:30:14.112229164+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:36:36.963589719+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:36:36.970597616+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:37:17.961243854+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:37:17.987690542+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:37:47.108236169+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T18:37:47.147171005+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T18:40:17.66768553+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:40:17.66824012+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:40:24.431554676+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:40:24.441783069+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:49:09.419844584+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:49:09.420851854+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:49:13.145457032+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:49:13.146027234+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:49:23.419740591+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-13T18:49:23.42237162+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-13T18:49:41.860603297+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:49:41.861826904+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:50:03.738189609+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:50:03.738823053+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:50:07.77614127+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:50:07.778125727+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:53:16.576242405+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:53:16.576682285+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:53:21.3021631+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:53:21.302709173+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:53:56.969855959+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:53:56.971515232+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:54:22.63766952+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:54:22.638223577+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:54:27.698876847+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:54:27.699938812+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:54:39.83243122+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:54:39.834654905+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:55:15.168961875+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:55:15.169860962+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:55:17.965870108+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:55:17.96812635+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:56:49.47047524+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:56:49.471536823+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:57:54.560676894+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:57:54.561294124+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:57:59.090204035+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:57:59.09225884+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:58:18.740374598+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:58:18.741436697+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T18:59:37.395043505+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T18:59:37.395668684+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T18:59:41.467206684+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T18:59:41.469246871+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T19:01:36.596630964+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T19:01:36.597891243+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T19:01:40.706693726+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T19:01:40.708857684+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T19:01:48.913389737+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T19:01:48.913950037+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T19:01:54.29494642+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T19:01:54.296860383+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T19:01:56.106407069+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T19:01:56.107454527+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T19:06:14.984418505+05:00","level":"INFO","msg":"Creating service"}
+{"time":"2024-08-13T19:06:14.994218473+05:00","level":"INFO","msg":"Service created successfully"}
+{"time":"2024-08-13T19:06:18.705670436+05:00","level":"INFO","msg":"Creating service"}
+{"time":"2024-08-13T19:06:18.717741354+05:00","level":"INFO","msg":"Service created successfully"}
+{"time":"2024-08-13T19:06:19.446162276+05:00","level":"INFO","msg":"Creating service"}
+{"time":"2024-08-13T19:06:19.447868858+05:00","level":"INFO","msg":"Service created successfully"}
+{"time":"2024-08-13T19:06:27.849725443+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T19:06:27.850800857+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T19:08:12.213300595+05:00","level":"INFO","msg":"Getting all services..."}
+{"time":"2024-08-13T19:08:12.215764568+05:00","level":"INFO","msg":"All services found successfully"}
+{"time":"2024-08-13T19:09:00.233496991+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T19:09:00.234830786+05:00","level":"ERROR","msg":"Error getting all reviews","!BADKEY":"rpc error: code = Unknown desc = error decoding key updated_at: cannot decode 64-bit integer into a string type"}
+{"time":"2024-08-13T19:13:21.564106951+05:00","level":"INFO","msg":" creating handler"}
+{"time":"2024-08-13T19:13:21.565257298+05:00","level":"INFO","msg":"Review created successfully"}
+{"time":"2024-08-13T19:13:24.595790649+05:00","level":"INFO","msg":" creating handler"}
+{"time":"2024-08-13T19:13:24.596766559+05:00","level":"INFO","msg":"Review created successfully"}
+{"time":"2024-08-13T19:13:25.346749949+05:00","level":"INFO","msg":" creating handler"}
+{"time":"2024-08-13T19:13:25.347732292+05:00","level":"INFO","msg":"Review created successfully"}
+{"time":"2024-08-13T19:13:42.293715309+05:00","level":"INFO","msg":"GetAllReview called"}
+{"time":"2024-08-13T19:13:42.294859499+05:00","level":"INFO","msg":"All reviews retrieved successfully"}
+{"time":"2024-08-13T20:14:04.388351222+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T20:14:04.390338312+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T20:15:31.346015349+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:15:31.347571467+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:17:47.85836097+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:17:47.868354994+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:18:01.563203479+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T20:18:01.564904265+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T20:18:05.624864368+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:18:05.62624411+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:18:44.231736869+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:18:44.231838393+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:18:56.978923419+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:18:56.979035878+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:18:57.721868744+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:18:57.721998706+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:18:57.87027396+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:18:57.870379311+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:18:58.049138378+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:18:58.049256519+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:42.374421697+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:42.37456512+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:42.542897657+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:42.543022228+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:43.303024285+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:43.303144878+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:43.458782088+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:43.458904981+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:43.610473755+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:43.610572011+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:43.772260293+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:43.772507796+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:43.913444884+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:43.913555617+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:44.046280085+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:44.046388436+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:44.196402767+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:44.196523221+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:44.376631571+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:44.376737409+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:44.571133449+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:44.571246092+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:44.715530881+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:44.715652854+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:44.879486942+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:44.879580662+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:45.022318173+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:45.022419306+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:45.183773786+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:45.183892066+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:45.353645862+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:45.353763985+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:45.47656742+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:45.476673978+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:45.623282945+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:45.623395603+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:45.779132753+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:45.779242197+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:45.920585593+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:45.920744325+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:46.0826896+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:46.082795344+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:46.262787852+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:46.262887434+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:28:46.434665955+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:28:46.434761481+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:29:10.992142787+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:29:10.992248406+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:29:18.366481507+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:29:18.366598036+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:29:50.27142603+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:29:50.271559507+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:29:51.377906919+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:29:51.378001153+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp: lookup kafka on 127.0.0.53:53: server misbehaving"}
+{"time":"2024-08-13T20:37:49.012119749+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-13T20:37:49.013756927+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-13T20:37:55.823528239+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:37:56.839636634+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:39:25.238366181+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:39:26.241074155+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:41:21.420521457+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:41:22.422799623+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:48:46.696784262+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:48:47.698808975+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:49:38.329109993+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:49:39.33098929+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:50:54.279673741+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:50:55.291306831+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:52:15.221130945+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:52:16.222894744+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:53:18.834174372+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-13T20:53:19.83612185+05:00","level":"INFO","msg":"Booking created successfully"}
+{"time":"2024-08-13T20:54:30.162184812+05:00","level":"INFO","msg":"Updating booking..."}
+{"time":"2024-08-13T20:54:31.165204654+05:00","level":"INFO","msg":"Booking updated successfully"}
+{"time":"2024-08-13T20:54:57.236847869+05:00","level":"INFO","msg":"Deleting booking..."}
+{"time":"2024-08-13T20:54:58.237245912+05:00","level":"INFO","msg":"Booking deleted successfully"}
+{"time":"2024-08-13T20:56:03.666973811+05:00","level":"INFO","msg":"Deleting booking..."}
+{"time":"2024-08-13T20:56:04.668896087+05:00","level":"INFO","msg":"Booking deleted successfully"}
+{"time":"2024-08-13T20:57:44.971308556+05:00","level":"INFO","msg":"Deleting booking..."}
+{"time":"2024-08-13T20:57:45.97375046+05:00","level":"INFO","msg":"Booking deleted successfully"}
+{"time":"2024-08-14T13:46:06.46498156+05:00","level":"INFO","msg":"Starting the application ..."}
+{"time":"2024-08-14T13:46:06.46925056+05:00","level":"INFO","msg":"Server is running","PORT":":8080"}
+{"time":"2024-08-14T13:50:34.548012489+05:00","level":"INFO","msg":"Getting all bookings..."}
+{"time":"2024-08-14T13:50:34.569345296+05:00","level":"INFO","msg":"All bookings retrieved successfully"}
+{"time":"2024-08-14T13:50:50.492540738+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-14T13:50:50.493149563+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp 127.0.0.1:9092: connect: connection refused"}
+{"time":"2024-08-14T13:51:13.108123431+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-14T13:51:13.108257055+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp 127.0.0.1:9092: connect: connection refused"}
+{"time":"2024-08-14T13:54:44.229421357+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-14T13:54:44.229573895+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp 127.0.0.1:9092: connect: connection refused"}
+{"time":"2024-08-14T13:54:45.167496846+05:00","level":"INFO","msg":"Creating booking..."}
+{"time":"2024-08-14T13:54:45.167659539+05:00","level":"ERROR","msg":"Error creating booking","!BADKEY":"dial tcp 127.0.0.1:9092: connect: connection refused"}
+{"time":"2024-08-14T13:55:35.478786382+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:55:35.489608244+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:56:05.238837897+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:56:05.240503551+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:58:11.585481144+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:58:11.587175098+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:58:12.446792692+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:58:12.448677146+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:59:06.662297286+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:59:06.665160702+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:59:26.777812416+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:59:26.780559364+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:59:29.699344024+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:59:29.70104034+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:59:42.867696819+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:59:42.870646157+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T13:59:47.629702337+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T13:59:47.631353362+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T14:00:31.854566391+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T14:00:31.857260138+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T14:02:01.342781005+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T14:02:01.345757676+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
+{"time":"2024-08-14T14:02:03.610502306+05:00","level":"INFO","msg":"Getting booking by id..."}
+{"time":"2024-08-14T14:02:03.612105096+05:00","level":"ERROR","msg":"Error getting booking by id","!BADKEY":"rpc error: code = Unknown desc = mongo: no documents in result"}
